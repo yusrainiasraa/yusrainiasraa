@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Yusraini Nurul Asra</h1>
+<h1 align="center">Hi👋🏼, I'm Yusraini Nurul Asra</h1>
 <h3 align="center">Data Enthusiast</h3>
 
 - 🔭 I am currently studying at **Universitas Diponegoro**

@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently studying at **Universitas Diponegoro**
 
-
-https://github.com/yusrainiasraa/yusrainiasraa/assets/65879279/c796b746-5780-4362-bbe4-f7e8fb8dfef4
-
-
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 <div align="center"> 

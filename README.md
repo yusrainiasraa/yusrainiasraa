@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi👋🏼, I'm Yusraini Nurul Asra</h1>
 <h3 align="center">Data Enthusiast</h3>
 
+<!--
 - 🔭 I am currently studying at **Universitas Diponegoro**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
+-->
 
 <div align="center"> 
   <a href="mailto:yusrainiasraaa@gmail.com">
